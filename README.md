@@ -1,6 +1,9 @@
 # ✨ KalaKarvan: The Artisan's Digital Amplifier
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/81fd8ef3-b294-43fc-b718-068ed2e480a0" />
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/81fd8ef3-b294-43fc-b718-068ed2e480a0" width="500" height="500" alt="image">
+</div>
+
 
 
 > A Generative AI-powered digital partner that empowers local Indian artisans to thrive in the modern marketplace by helping them create stunning product visuals and compelling narratives for their craft.
